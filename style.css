@@ -9,12 +9,13 @@ header{
     background-image: url('images/banner/banner3.png');
      background-size: cover; 
     background-repeat: no-repeat;
+    background-position: bottom ;
     /* height: 100%; */
    
 }
 .head-container{
     text-align: right;
-    padding: 10% 230px 10% 845px ;
+    padding: 10% 5% 10% 845px ;
 }
 
 .head-title{
@@ -140,13 +141,14 @@ font-weight: 500;
 
     background-repeat: no-repeat;
    background-size: cover;
-    height: 300px;
+    height: 100%;
+    border-radius: 10px;
 
   
 }
 
 .watch{
-    padding: 50px 900px 70px 70px;
+    padding: 50px 50% 70px 70px;
 }
 
  .watch .sec-3-h-3{
