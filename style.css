@@ -14,7 +14,7 @@ header{
 }
 .head-container{
     text-align: right;
-    padding: 216px 230px 364px 845px ;
+    padding: 216px 230px 10% 845px ;
 }
 
 .head-title{
@@ -24,7 +24,7 @@ text-align: right;
 font-size: 65px;
 
 font-weight: 700;
-padding-left: 200px;
+margin-left: 200px;
 padding-bottom:30px;
 
 
